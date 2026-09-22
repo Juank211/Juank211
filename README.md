@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Juank!
+Software Analysis and Development Student (ADSO - SENA) | Full Stack & Mobile Enthusiast
 
-<!--
-**Juank211/Juank211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently working on SaaS platform architectures & web applications
+🛠️ Tech Stack: Vue.js, Quasar Framework, Express.js, Node.js, Python, Supabase
+🗄️ Databases: MySQL, PostgreSQL, Oracle 11g, MongoDB
+🎨 Design & Web: HTML5, CSS Grid, Flexbox, Tailwind CSS
+🚲 Passionate about Mountain Biking & Tech Innovation
+Badges
+🛠️ Tech Stack & Tools
+Languages & Web Technologies HTML5 CSS3 JavaScript Python
 
-Here are some ideas to get you started:
+Frameworks & Libraries Vue.js Quasar Express.js Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Databases & Services MySQL PostgreSQL MongoDB Supabase
+
+Tools & Workflow Git GitHub macOS
+
+📊 GitHub Statistics
+Juank's GitHub Stats
+
+Top Languages
+
+Juank's GitHub Streak
+
+📫 How to reach me
+LinkedIn Gmail
+
+⭐️ Designed with passion and code from Colombia 🇨🇴
