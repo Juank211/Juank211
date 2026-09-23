@@ -39,24 +39,23 @@ Software Analysis and Development Student (ADSO - SENA) | Full Stack & Mobile En
 
 ---
 
-### 📊 GitHub Statistics
+### 🏆 GitHub Trophies & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juank211&theme=tokyonight&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juank211&theme=tokyonight&layout=compact" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Juank211&theme=tokyonight&margin-w=15&row=1" alt="Juank Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juank211&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juank211&theme=tokyonight&hide_border=true" width="97%" alt="Streak" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Project
 
 <p align="center">
   <a href="https://github.com/Juank211/Portafolio_JuanK">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juank211&repo=Portafolio_JuanK&theme=tokyonight" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Juank211&repo=Portafolio_JuanK&theme=tokyonight" alt="Repo Pin" />
   </a>
 </p>
 
@@ -65,6 +64,7 @@ Software Analysis and Development Student (ADSO - SENA) | Full Stack & Mobile En
 ### 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-camilo-lopez-rua-79b981b4)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanco7732@gmail.com)
 
 ---
 
