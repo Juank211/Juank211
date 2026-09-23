@@ -39,14 +39,10 @@ Software Analysis and Development Student (ADSO - SENA) | Full Stack & Mobile En
 
 ---
 
-### 🏆 GitHub Trophies & Activity
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Juank211&theme=tokyonight&margin-w=15&row=1" alt="Juank Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juank211&theme=tokyonight&hide_border=true" width="97%" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juank211&theme=tokyonight&hide_border=true" width="97%" alt="Juank's Streak" />
 </p>
 
 ---
@@ -55,7 +51,7 @@ Software Analysis and Development Student (ADSO - SENA) | Full Stack & Mobile En
 
 <p align="center">
   <a href="https://github.com/Juank211/Portafolio_JuanK">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Juank211&repo=Portafolio_JuanK&theme=tokyonight" alt="Repo Pin" />
+    <img src="https://img.shields.io/badge/Portafolio__JuanK-Ejercicios_SENA_HTML/CSS/JS-23272A?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio Repo" />
   </a>
 </p>
 
